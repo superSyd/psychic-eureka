@@ -1,4 +1,4 @@
-# [Stock Price Checker](https://boilerplate-project-stockchecker.supersyd.repl.co/)
+# [Stock Price Checker Project](https://boilerplate-project-stockchecker.supersyd.repl.co/)
 
 Test Cases
 - You should set the content security policies to only allow loading of scripts and CSS from your server.
